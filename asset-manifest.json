@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a4faae7.css",
-    "main.js": "/static/js/main.0ec5dcec.js",
-    "static/media/NCUR2023 Poster-1.png": "/static/media/NCUR2023 Poster-1.f8995cf988e37aa68db3.png",
-    "static/media/NCUR2023 Poster.pdf": "/static/media/NCUR2023 Poster.fbf892b04f6b43cda530.pdf",
-    "static/media/SeniorPhotoNoBackground.png": "/static/media/SeniorPhotoNoBackground.67b8177aa320dbe51b80.png",
-    "static/media/TwitterPoster2.pdf": "/static/media/TwitterPoster2.6bc031d02ab253ec63b1.pdf",
-    "static/media/TwitterPoster1.pdf": "/static/media/TwitterPoster1.e16da6a0ea569554361f.pdf",
-    "static/media/Selfie.jpg": "/static/media/Selfie.485036d8377eca24a795.jpg",
-    "static/media/ANNSIM23.pdf": "/static/media/ANNSIM23.0b06e32ab4e58034ae07.pdf",
-    "static/media/AnnSim2023.png": "/static/media/AnnSim2023.78bbbccb647cd799f31c.png",
-    "static/media/TwitterPoster2.png": "/static/media/TwitterPoster2.c15793c71ecde6ccbb00.png",
-    "static/media/TwitterPoster1.png": "/static/media/TwitterPoster1.b713d34f3202af0644f2.png",
-    "static/media/websitePhoto.png": "/static/media/websitePhoto.d243a0c04fc199e57aeb.png",
-    "static/media/JackBurrightResume.pdf": "/static/media/JackBurrightResume.e74dd824cf5add3241ba.pdf",
-    "index.html": "/index.html",
-    "main.1a4faae7.css.map": "/static/css/main.1a4faae7.css.map",
-    "main.0ec5dcec.js.map": "/static/js/main.0ec5dcec.js.map"
+    "main.css": "/jack/static/css/main.1a4faae7.css",
+    "main.js": "/jack/static/js/main.e5459ecb.js",
+    "static/media/NCUR2023 Poster-1.png": "/jack/static/media/NCUR2023 Poster-1.f8995cf988e37aa68db3.png",
+    "static/media/NCUR2023 Poster.pdf": "/jack/static/media/NCUR2023 Poster.fbf892b04f6b43cda530.pdf",
+    "static/media/SeniorPhotoNoBackground.png": "/jack/static/media/SeniorPhotoNoBackground.67b8177aa320dbe51b80.png",
+    "static/media/TwitterPoster2.pdf": "/jack/static/media/TwitterPoster2.6bc031d02ab253ec63b1.pdf",
+    "static/media/TwitterPoster1.pdf": "/jack/static/media/TwitterPoster1.e16da6a0ea569554361f.pdf",
+    "static/media/Selfie.jpg": "/jack/static/media/Selfie.485036d8377eca24a795.jpg",
+    "static/media/ANNSIM23.pdf": "/jack/static/media/ANNSIM23.0b06e32ab4e58034ae07.pdf",
+    "static/media/AnnSim2023.png": "/jack/static/media/AnnSim2023.78bbbccb647cd799f31c.png",
+    "static/media/TwitterPoster2.png": "/jack/static/media/TwitterPoster2.c15793c71ecde6ccbb00.png",
+    "static/media/TwitterPoster1.png": "/jack/static/media/TwitterPoster1.b713d34f3202af0644f2.png",
+    "static/media/websitePhoto.png": "/jack/static/media/websitePhoto.d243a0c04fc199e57aeb.png",
+    "static/media/JackBurrightResume.pdf": "/jack/static/media/JackBurrightResume.e74dd824cf5add3241ba.pdf",
+    "index.html": "/jack/index.html",
+    "main.1a4faae7.css.map": "/jack/static/css/main.1a4faae7.css.map",
+    "main.e5459ecb.js.map": "/jack/static/js/main.e5459ecb.js.map"
   },
   "entrypoints": [
     "static/css/main.1a4faae7.css",
-    "static/js/main.0ec5dcec.js"
+    "static/js/main.e5459ecb.js"
   ]
 }
