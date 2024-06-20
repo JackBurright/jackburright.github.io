@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2811836.css",
-    "main.js": "/static/js/main.05de20aa.js",
+    "main.css": "/static/css/main.d1ed9a3c.css",
+    "main.js": "/static/js/main.9550ba4a.js",
     "static/media/NCUR2023 Poster-1.png": "/static/media/NCUR2023 Poster-1.f8995cf988e37aa68db3.png",
     "static/media/NCUR2023 Poster.pdf": "/static/media/NCUR2023 Poster.fbf892b04f6b43cda530.pdf",
-    "static/media/SeniorPhotoNoBackground.png": "/static/media/SeniorPhotoNoBackground.67b8177aa320dbe51b80.png",
     "static/media/TwitterPoster2.pdf": "/static/media/TwitterPoster2.6bc031d02ab253ec63b1.pdf",
     "static/media/TwitterPoster1.pdf": "/static/media/TwitterPoster1.e16da6a0ea569554361f.pdf",
     "static/media/Selfie.jpg": "/static/media/Selfie.485036d8377eca24a795.jpg",
     "static/media/ANNSIM23.pdf": "/static/media/ANNSIM23.0b06e32ab4e58034ae07.pdf",
     "static/media/AnnSim2023.png": "/static/media/AnnSim2023.78bbbccb647cd799f31c.png",
+    "static/media/Burright_Jack_Tan-removebg.png": "/static/media/Burright_Jack_Tan-removebg.a597fe2f70f780536e2f.png",
     "static/media/TwitterPoster2.png": "/static/media/TwitterPoster2.c15793c71ecde6ccbb00.png",
     "static/media/TwitterPoster1.png": "/static/media/TwitterPoster1.b713d34f3202af0644f2.png",
     "static/media/websitePhoto.png": "/static/media/websitePhoto.d243a0c04fc199e57aeb.png",
     "static/media/ResumeJackBurright.pdf": "/static/media/ResumeJackBurright.dac99b1016c65547ab5d.pdf",
     "index.html": "/index.html",
-    "main.d2811836.css.map": "/static/css/main.d2811836.css.map",
-    "main.05de20aa.js.map": "/static/js/main.05de20aa.js.map"
+    "main.d1ed9a3c.css.map": "/static/css/main.d1ed9a3c.css.map",
+    "main.9550ba4a.js.map": "/static/js/main.9550ba4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2811836.css",
-    "static/js/main.05de20aa.js"
+    "static/css/main.d1ed9a3c.css",
+    "static/js/main.9550ba4a.js"
   ]
 }
