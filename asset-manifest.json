@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1a4faae7.css",
-    "main.js": "/static/js/main.0ec5dcec.js",
+    "main.js": "/static/js/main.5030622e.js",
     "static/media/NCUR2023 Poster-1.png": "/static/media/NCUR2023 Poster-1.f8995cf988e37aa68db3.png",
     "static/media/NCUR2023 Poster.pdf": "/static/media/NCUR2023 Poster.fbf892b04f6b43cda530.pdf",
     "static/media/SeniorPhotoNoBackground.png": "/static/media/SeniorPhotoNoBackground.67b8177aa320dbe51b80.png",
@@ -13,13 +13,13 @@
     "static/media/TwitterPoster2.png": "/static/media/TwitterPoster2.c15793c71ecde6ccbb00.png",
     "static/media/TwitterPoster1.png": "/static/media/TwitterPoster1.b713d34f3202af0644f2.png",
     "static/media/websitePhoto.png": "/static/media/websitePhoto.d243a0c04fc199e57aeb.png",
-    "static/media/JackBurrightResume.pdf": "/static/media/JackBurrightResume.e74dd824cf5add3241ba.pdf",
+    "static/media/ResumeJackBurright.pdf": "/static/media/ResumeJackBurright.dac99b1016c65547ab5d.pdf",
     "index.html": "/index.html",
     "main.1a4faae7.css.map": "/static/css/main.1a4faae7.css.map",
-    "main.0ec5dcec.js.map": "/static/js/main.0ec5dcec.js.map"
+    "main.5030622e.js.map": "/static/js/main.5030622e.js.map"
   },
   "entrypoints": [
     "static/css/main.1a4faae7.css",
-    "static/js/main.0ec5dcec.js"
+    "static/js/main.5030622e.js"
   ]
 }
