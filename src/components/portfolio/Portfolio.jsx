@@ -17,6 +17,15 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className='container portfolio__container'>
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG4} alt="" />
+          </div>
+          <h3>An Agent-Based Model of Mobs Using Theoretical Constructs of Collective Action</h3>
+          <div className='portfolio__item-cta'>
+            <a href={P4} download className='btn'>Conference Publication</a>
+          </div>
+        </article>
 
       <article className='portfolio__item'>
           <div className='portfolio__item-image'>
@@ -25,16 +34,6 @@ const Portfolio = () => {
           <h3>Utilizing NetLogo to Simulate Mobs: An Agent-based Modeling Approach</h3>
           <div className='portfolio__item-cta'>
             <a href={P1} download className='btn'>Poster Download</a>
-          </div>
-        </article>
-
-        <article className='portfolio__item'>
-          <div className='portfolio__item-image'>
-            <img src={IMG4} alt="" />
-          </div>
-          <h3>An Agent-Based Model of Mobs Using Theoretical Constructs of Collective Action</h3>
-          <div className='portfolio__item-cta'>
-            <a href={P4} download className='btn'>Conference Publication</a>
           </div>
         </article>
 
@@ -64,10 +63,10 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={P5} alt="" />
           </div>
-          <h3>Personal Website</h3>
+          <h3>Personal Website Code</h3>
           <div className='portfolio__item-cta'>
             
-          <a href= 'https://github.com/JackBurright/PersonalWebsite' target='_blank' className='btn'>Github Code</a>
+          <a href= 'https://github.com/JackBurright/jackburright.github.io' target='_blank' className='btn'>Github Code</a>
           </div>
         </article>
         

@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import ME from '../../assets/SeniorPhotoNoBackground.png'
+import ME from '../../assets/Burright_Jack_Tan-removebg.png'
 import HeaderSocials from './HeaderSocials'
 const Header = () => {
   return (
@@ -13,7 +13,7 @@ const Header = () => {
         <CTA/>
         <HeaderSocials/>
         <div className='me'>
-          <img src={ME} alt="me" />
+          <img id= "head-shot" src={ME} alt="me" />
         </div>
 
 

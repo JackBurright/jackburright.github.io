@@ -38,6 +38,11 @@ header{
     background: var(--color-primary);
 }
 
+#head-shot{
+    bottom: 40px;
+    position: relative;
+}
+
 
 /*============ ME(Image of Me)=========*/
 .me{

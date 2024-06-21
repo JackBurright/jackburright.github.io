@@ -36,7 +36,7 @@ const About = () => {
               <small>80+ completed projects</small>
             </article>
           </div> */}
-          <p>Hey there! I'm Jack Burright, a senior pursuing a Bachelor of Science degree in Computer Science. I grew up in Minnesota and have an absolute love for diving into the world of technology and learning everything I can get my hands on. </p>
+          <p>Hey there! I'm Jack Burright, a recent graduate with a Bachelor of Science degree in Computer Science from Creighton University. I grew up in Minnesota and have an absolute love for diving into the world of technology and learning everything I can get my hands on.</p>
           <a href="#contact" className='btn btn-primary'>Lets Talk</a>
         
         </div>
