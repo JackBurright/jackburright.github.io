@@ -1,8 +1,6 @@
 import React from 'react'
 import './footer.css'
-import {FaFacebookF} from 'react-icons/fa'
-import {FiInstagram} from 'react-icons/fi'
-import {IoLogoTwitter} from 'react-icons/io'
+import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <footer>
@@ -19,9 +17,12 @@ const Footer = () => {
       
       <div className='footer__copyright'>
         <small>&copy; Jack Burright. All rights reserved</small>
+        <br />
+        <Link to="/terms-of-service">Terms of Service</Link>
+        <br />
+        <Link to="/privacy-policy">Privacy Policy</Link>
       </div>
-
-
+      
     </footer>
   )
 }
