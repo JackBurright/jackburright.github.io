@@ -16,11 +16,7 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
 
       </ul>
-      {/* <div className='footer__socials'>
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
-        <a href="https://twitter.com"><IoLogoTwitter/></a>
-      </div> */}
+      
       <div className='footer__copyright'>
         <small>&copy; Jack Burright. All rights reserved</small>
       </div>
