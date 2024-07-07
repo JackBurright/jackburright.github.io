@@ -9,6 +9,8 @@ import P3 from '../../assets/TwitterPoster1.pdf'
 import IMG4 from '../../assets/AnnSim2023.png'
 import P4 from '../../assets/ANNSIM23.pdf'
 import P5 from '../../assets/websitePhoto.png'
+import P6 from '../../assets/journalPub.pdf'
+import IMG6 from '../../assets/journalCover1.jpg'
 
 const Portfolio = () => {
   return (
@@ -17,6 +19,16 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className='container portfolio__container'>
+      <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG6} alt="" />
+          </div>
+          <h3>Evaluating collective action theory-based model to simulate mobs</h3>
+          <div className='portfolio__item-cta'>
+            <a href={P6} download className='btn'>Journal Publication</a>
+          </div>
+      </article>
+
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
             <img src={IMG4} alt="" />
